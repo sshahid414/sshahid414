@@ -100,16 +100,6 @@ This is my **new GitHub profile**, where I'm consolidating selected work, experi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-| Platform | What I build |
-|----------|----------------|
-| **Shopify** | Custom themes (Liquid, OS 2.0), sections & snippets, Shopify apps, checkout extensions, performance & UX |
-| **WordPress** | Custom themes, plugins, Gutenberg blocks, CPTs/ACF, migrations, SEO-ready markup |
-| **Webflow** | Client-first sites, CMS collections, interactions, custom code embeds, exports & handoff to dev workflows |
-| **Joomla** | Templates, extensions, component/module development, multilingual sites, migrations & upgrades |
-| **Storefront API** | Headless storefronts with React/Next.js, GraphQL, cart/checkout flows, Hydrogen-style commerce UIs |
-| **Payload CMS** | Collections & globals, access control, hooks, custom admin UI, Next.js integration, type-safe content APIs |
-| **Other CMS** | Drupal, Magento, Squarespace, Strapi, Contentful, and custom / headless content solutions |
-
 ### Databases & caching
 
 <p align="left">
@@ -157,7 +147,7 @@ This is my **new GitHub profile**, where I'm consolidating selected work, experi
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres,mongodb,docker,aws,azure,git,html,css,javascript,python,dotnet,redis,nextjs,tailwind,vite,jest,cypress,wordpress,shopify,graphql&perline=11" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,postgres,mongodb,docker,aws,azure,git,html,css,javascript,python,django,dotnet,redis,nextjs,tailwind,vite,jest,cypress,wordpress,graphql&perline=11" alt="Skill icons" />
 </p>
 
 ---
@@ -201,10 +191,10 @@ This is my **new GitHub profile**, where I'm consolidating selected work, experi
 ## Let's connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shahzaib.shahid.up@gmail.com">
     <img src="https://img.shields.io/badge/Email-me%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://de.linkedin.com/in/shahzaib414">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sshahid414">
