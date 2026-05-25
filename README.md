@@ -172,11 +172,6 @@ This is my **new GitHub profile**, where I'm consolidating selected work, experi
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sshahid414&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshahid414&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshahid414&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -192,7 +187,7 @@ This is my **new GitHub profile**, where I'm consolidating selected work, experi
 
 <p align="center">
   <a href="mailto:shahzaib.shahid.up@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-me%40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://de.linkedin.com/in/shahzaib414">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
